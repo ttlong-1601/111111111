@@ -7,13 +7,8 @@ namespace WebApplication1
 {
     public class Class1
     {
-        //sdfdsf
-        //sdfsdfsdf
+   
 
-        //dsfsdfsd
-        //fdgdfgdf
-
-        //111111111
 
     }
 }
